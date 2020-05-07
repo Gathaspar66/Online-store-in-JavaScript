@@ -1,0 +1,112 @@
+lista = [
+  {
+    "nazwa": "mikrofon",
+    "kod" : "ji-66",
+    "cena_netto" : "40",
+    "vat" : "23",
+    "cena_brutto" : "49.20",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 2, Opcja nr 1",
+    "ocena" : "2",
+    "zdjecie" : "zdjecia/mikrofon.jpg"
+  },
+  {
+    "nazwa": "bmw",
+    "kod" : "wi-23",
+    "cena_netto" : "12000",
+    "vat" : "23",
+    "cena_brutto" : "14760",
+    "kategoria" : "Samochody",
+    "opcja" : "Opcja nr 3, Opcja nr 1",
+    "ocena" : "5",
+    "zdjecie" : "zdjecia/bmw.jpg"
+  },
+  {
+    "nazwa": "gra",
+    "kod" : "mx-87",
+    "cena_netto" : "60",
+    "vat" : "23",
+    "cena_brutto" : "73.80",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 3, Opcja nr 2",
+    "ocena" : "5",
+    "zdjecie" : "zdjecia/gra.jpg"
+  },
+  {
+    "nazwa": "kons ps",
+    "kod" : "kp-d1",
+    "cena_netto" : "1200",
+    "vat" : "23",
+    "cena_brutto" : "1476",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 1, Opcja nr 3",
+    "ocena" : "3",
+    "zdjecie" : "zdjecia/ps4.jpg"
+  },
+  {
+    "nazwa": "kons psp",
+    "kod" : "nb-33",
+    "cena_netto" : "300",
+    "vat" : "8",
+    "cena_brutto" : "324",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 3, Opcja nr 2",
+    "ocena" : "4",
+    "zdjecie" : "zdjecia/psp3004.jpg"
+  },
+  {
+    "nazwa": "sluchawki",
+    "kod" : "12-be",
+    "cena_netto" : "210",
+    "vat" : "23",
+    "cena_brutto" : "258.30",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 1, Opcja nr 3",
+    "ocena" : "2",
+    "zdjecie" : "zdjecia/sluchawki.jpg"
+  },
+  {
+    "nazwa": "pad",
+    "kod" : "cd-23",
+    "cena_netto" : "190",
+    "vat" : "23",
+    "cena_brutto" : "233.70",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 3, Opcja nr 2",
+    "ocena" : "3",
+    "zdjecie" : "zdjecia/padps4.jpg"
+  },
+  {
+    "nazwa": "ksiazka",
+    "kod" : "ef-45",
+    "cena_netto" : "35",
+    "vat" : "8",
+    "cena_brutto" : "37.80",
+    "kategoria" : "Książki",
+    "opcja" : "Opcja nr 1, Opcja nr 3",
+    "ocena" : "5",
+    "zdjecie" : "zdjecia/ksiazka.jpg"
+  },
+  {
+    "nazwa": "kierownica",
+    "kod" : "cd-23",
+    "cena_netto" : "150",
+    "vat" : "23",
+    "cena_brutto" : "184.50",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 2, Opcja nr 3, Opcja nr 1",
+    "ocena" : "2",
+    "zdjecie" : "zdjecia/kierownica.jpg"
+  },
+  {
+    "nazwa": "komputer",
+    "kod" : "ab-12",
+    "cena_netto" : "4000",
+    "vat" : "23",
+    "cena_brutto" : "4920",
+    "kategoria" : "Elektronika",
+    "opcja" : "Opcja nr 1, Opcja nr 2",
+    "ocena" : "1",
+    "zdjecie" : "zdjecia/komputer.jpg"
+  }
+];
